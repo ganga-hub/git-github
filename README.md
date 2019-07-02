@@ -1,2 +1,2 @@
 # git-github
-this is example for git
+this is tutorial for git
